@@ -18,7 +18,7 @@ window.SITE_DATA = {
   contactText: "박명길 010-5239-0544",
   footerText: "귀한 걸음에 깊이 감사드립니다.",
   mapLinks: {
-    naver: "https://map.naver.com/",
+    naver: "https://m.place.naver.com/restaurant/1146359136/location?filter=location&selected_place_id=1146359136",
     kakao: "https://map.kakao.com/"
   },
   traffic: [
