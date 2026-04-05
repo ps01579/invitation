@@ -19,7 +19,7 @@ window.SITE_DATA = {
   footerText: "귀한 걸음에 깊이 감사드립니다.",
   mapLinks: {
     naver: "https://m.place.naver.com/restaurant/1146359136/location?filter=location&selected_place_id=1146359136",
-    kakao: "https://map.kakao.com/"
+    kakao: "https://kko.to/43ZR5Ul_SR"
   },
   traffic: [
     "자가용 이용 시 호텔 주차장을 이용하실 수 있습니다.",
