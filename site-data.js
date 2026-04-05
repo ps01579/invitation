@@ -41,7 +41,7 @@ window.SITE_DATA = {
   ],
   gallery: [
     {
-      src: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1200&q=80",
+      src: "./assets/1.jpg",
       alt: "가족사진 1"
     },
     {
