@@ -14,7 +14,7 @@ window.SITE_DATA = {
   hostLine: "장남 박명길 · 자부 원혜진 올림",
   eventDateText: "2026년 4월 25일 토요일 오후 6시",
   venueName: "코트야드 메리어트 수원 2층 PDR1",
-  venueAddress: "경기도 수원시 영통구 코트야드 메리어트 수원 호텔",
+  venueAddress: "경기 수원시 영통구 광교호수공원로 320",
   contactText: "박명길 010-5239-0544",
   footerText: "귀한 걸음에 깊이 감사드립니다.",
   mapLinks: {
