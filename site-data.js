@@ -11,7 +11,7 @@ window.SITE_DATA = {
 바쁘시더라도 함께 자리하시어
 뜻깊은 시간을 빛내 주시면
 큰 기쁨으로 간직하겠습니다.`,
-  hostLine: "빅남매 올림",
+  hostLine: "박남매 올림",
   eventDateText: "2026년 4월 25일 토요일 오후 6시",
   venueName: "코트야드 메리어트 수원 2층 PDR1",
   venueAddress: "경기 수원시 영통구 광교호수공원로 320",
