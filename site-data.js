@@ -2,7 +2,7 @@ window.SITE_DATA = {
   heroLabel: "SAN SU YEON",
   title: "박종배님\n산수연에 초대합니다",
   subtitle: "귀한 걸음으로 함께해 주시면 더없는 기쁨이겠습니다.",
-  heroDate: "2026년 4월 25일 토요일 오후 7시",
+  heroDate: "2026년 4월 25일 토요일 오후 6시",
   heroVenue: "코트야드 메리어트 수원 2층 PDR1",
   invitationMessage: `오랜 세월 가족을 위해 아낌없는 사랑을 베풀어 오신
 부모님의 산수연을 맞아 감사의 마음을 담아
