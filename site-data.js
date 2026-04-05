@@ -1,6 +1,6 @@
 window.SITE_DATA = {
   heroLabel: "SAN SU YEON",
-  title: "김영수 · 박정희\n산수연에 초대합니다",
+  title: "박종배님\n산수연에 초대합니다",
   subtitle: "귀한 걸음으로 함께해 주시면 더없는 기쁨이겠습니다.",
   heroDate: "2026년 4월 25일 토요일 오후 7시",
   heroVenue: "코트야드 메리어트 수원 2층 PDR1",
@@ -11,7 +11,7 @@ window.SITE_DATA = {
 바쁘시더라도 함께 자리하시어
 뜻깊은 시간을 빛내 주시면
 큰 기쁨으로 간직하겠습니다.`,
-  hostLine: "장남 김민수 · 자부 이지은 올림",
+  hostLine: "장남 박명길 · 자부 원혜진 올림",
   eventDateText: "2026년 4월 25일 토요일 오후 6시",
   venueName: "코트야드 메리어트 수원 2층 PDR1",
   venueAddress: "경기도 수원시 영통구 코트야드 메리어트 수원 호텔",
